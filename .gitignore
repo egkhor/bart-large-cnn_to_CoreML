@@ -1,0 +1,6 @@
+# macOS & Xcode
+.DS_Store
+*.xcworkspace
+*.xcuserstate
+*.xcuserdata
+*.mlpackage/
